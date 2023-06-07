@@ -1,9 +1,10 @@
-name: pyclass
+name: realclasses
 channels:
   - nodefaults
   - conda-forge
 dependencies:
-  - python <3.11
+  - python 3.8.1
   - poetry
   - nodejs  # used by semantic-release
   - shellcheck
+  - urllib3 <2  # issues with poetry

@@ -10,12 +10,12 @@
       {
         "replacements": [
           {
-            "files": ["pyclass/__init__.py"],
+            "files": ["realclasses/__init__.py"],
             "from": "__version__ = '.*'  # semantic-release",
             "to": "__version__ = '${nextRelease.version}'  # semantic-release",
             "results": [
               {
-                "file": "pyclass/__init__.py",
+                "file": "realclasses/__init__.py",
                 "hasChanged": true,
                 "numMatches": 1,
                 "numReplacements": 1
@@ -53,7 +53,7 @@
       {
         "prepareCmd": "poetry build",
         "publishCmd": "poetry publish"
-        
+
       }
     ],
     [
@@ -68,7 +68,7 @@
         "assets": [
           "pyproject.toml",
           "docs/changelog.md",
-          "pyclass/__init__.py"
+          "realclasses/__init__.py"
         ],
         "message": "chore(release): ${nextRelease.version}"
       }

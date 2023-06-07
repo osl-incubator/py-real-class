@@ -1,7 +1,7 @@
-# PyClass project governance and decision-making
+# RealClasses project governance and decision-making
 
 The purpose of this document is to formalize the governance process used by the
-PyClass project in both ordinary and extraordinary
+RealClasses project in both ordinary and extraordinary
 situations, and to clarify how decisions are made and how the various elements
 of our community interact, including the relationship between collaborative open
 source development and work that may be funded by for-profit or non-profit
@@ -10,18 +10,18 @@ entities.
 ## Summary
 
 
-PyClass is a community-owned and community-run project.
+RealClasses is a community-owned and community-run project.
 To the maximum extent possible, decisions about project direction are made by
 community consensus (but note that "consensus" here has a somewhat technical
 meaning that might not match everyone's expectations -- see below). Some members
-of the community additionally contribute by serving on the PyClass steering council, where they are responsible for
+of the community additionally contribute by serving on the RealClasses steering council, where they are responsible for
 facilitating the establishment of community consensus, for stewarding project
 resources, and -- in extreme cases -- for making project decisions if the normal
 community-based process breaks down.
 
 ## The Project
 
-<< DESCRIPTION ABOUT PyClass PROJECT>>
+<< DESCRIPTION ABOUT RealClasses PROJECT>>
 
 <<DESCRIBE WHO ARE DEVELOPING THE PROJECT?>>
 
@@ -83,7 +83,7 @@ judgement (e.g., a simple and uncontroversial bug fix posted on GitHub and
 reviewed by a core developer is probably fine) and best efforts (e.g., all
 substantive API changes must be posted to the mailing list in order to give the
 broader community a chance to catch any problems and suggest improvements; we
-assume that anyone who cares enough about PyClass to
+assume that anyone who cares enough about RealClasses to
 invoke their veto right should be on the mailing list). If no-one bothers to
 comment on the mailing list after a few days, then it's probably fine. And worst
 case, if a change is more controversial than expected, or a crucial critique is
@@ -294,19 +294,19 @@ money from private foundations and donors or a for-profit company building
 proprietary products and services that leverage Project Software and Services.
 Funding acquired by Institutional Partners to work on The Project is called
 Institutional Funding. However, no funding obtained by an Institutional Partner
-can override the Steering Council. If a Partner has funding to do PyClass work and the Council decides to not pursue that
+can override the Steering Council. If a Partner has funding to do RealClasses work and the Council decides to not pursue that
 work as a project, the Partner is free to pursue it on their own. However in
-this situation, that part of the Partner’s work will not be under the PyClass umbrella and cannot use the Project trademarks in a
+this situation, that part of the Partner’s work will not be under the RealClasses umbrella and cannot use the Project trademarks in a
 way that suggests a formal relationship.
 
 Institutional Partner benefits are:
 
--  Acknowledgement on the PyClass websites, in talks and T-shirts.
--  Ability to acknowledge their own funding sources on the PyClass
+-  Acknowledgement on the RealClasses websites, in talks and T-shirts.
+-  Ability to acknowledge their own funding sources on the RealClasses
    websites, in talks and T-shirts.
 -  Ability to influence the project through the participation of their
    Council Member.
--  Council Members invited to PyClass Developer Meetings.
+-  Council Members invited to RealClasses Developer Meetings.
 
 <<ADD A LINK TO YOUR CURRENT LIST OF PARTNERS>>
 

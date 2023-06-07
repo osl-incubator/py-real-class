@@ -1,9 +1,9 @@
-# PyClass
+# RealClasses
 
 Python Package to help you to create classes with no problem with clas
 
 * Free software: BSD 3 Clause
-* Documentation: https://pyclass.readthedocs.io.
+* Documentation: https://realclasses.readthedocs.io.
 
 ## Features
 

@@ -50,7 +50,7 @@ repos:
     - entry: mypy
       exclude: ^$
       # note: it would be good to extend this to other apps as well
-      files: "pyclass/"
+      files: "realclasses/"
       id: mypy
       language: python
       name: mypy
@@ -59,7 +59,7 @@ repos:
         - commit
       types:
         - python
-      
+
     - entry: shellcheck
       id: shellcheck
       language: system
@@ -90,7 +90,7 @@ repos:
 
     - entry: pydocstyle
       exclude: ^$
-      files: "pyclass/"
+      files: "realclasses/"
       id: pydocstyle
       language: python
       name: pydocstyle
@@ -101,7 +101,7 @@ repos:
         - python
 
     - entry: vulture
-      files: "pyclass/"
+      files: "realclasses/"
       id: vulture
       language: python
       name: vulture
@@ -116,7 +116,7 @@ repos:
       name: mccabe
       entry: flake8 --max-complexity 10
       language: python
-      files: "pyclass/"
+      files: "realclasses/"
       pass_filenames: true
       stages:
         - commit

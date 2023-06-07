@@ -1,6 +1,6 @@
-site_name: PyClass
-site_url: https://osl-incubator.github.io/pyclass
-repo_url: https://github.com/osl-incubator/pyclass
+site_name: RealClasses
+site_url: https://osl-incubator.github.io/realclasses
+repo_url: https://github.com/osl-incubator/realclasses
 docs_dir: ./
 site_dir: ../build
 # extra_css:
@@ -113,7 +113,7 @@ markdown_extensions:
   - tables
   - toc
 extra:
-  project_name: "PyClass"
+  project_name: "RealClasses"
   team:
     - name: "Active maintainers"
       members:
@@ -125,11 +125,11 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/xmnlab
     - icon: fontawesome/brands/github
-      link: https://github.com/osl-incubator/pyclass
+      link: https://github.com/osl-incubator/realclasses
   support_levels:
     supported:
       icon: :material-check-decagram:{ .verified }
-      description: Tested in CI. If this doesn't work for you, please [file an issue](https://github.com/osl-incubator/pyclass/issues/new).
+      description: Tested in CI. If this doesn't work for you, please [file an issue](https://github.com/osl-incubator/realclasses/issues/new).
     bug:
       icon: :material-bug:{ .bug }
       description: Should work but doesn't because upstream is broken. Supported on a best-effort basis.
@@ -137,4 +137,4 @@ extra:
       icon: :material-cancel:{ .cancel }
       description: Unlikely to ever be supported or no upstream support.
 
-copyright: "Copyright &copy; 2022, PyClass Team"
+copyright: "Copyright &copy; 2022, RealClasses Team"
