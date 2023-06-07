@@ -2,14 +2,14 @@
 blank_issues_enabled: true
 contact_links:
 - name: 🙋  Usage Questions
-  url: https://github.com/pyclass/discussions
+  url: https://github.com/realclasses/discussions
   about: |
-    Use PyClass's GitHub Discussions to ask "How do I do X with Cookiecutter?".
+    Use RealClasses's GitHub Discussions to ask "How do I do X with Cookiecutter?".
 - name: 📖  Tutorial
-  url: https://github.com/pyclass
+  url: https://github.com/realclasses
   about: |
-    The PyClass tutorial is continually updated and provides an in depth walkthrough
+    The RealClasses tutorial is continually updated and provides an in depth walkthrough
     of how to use the latest release of Cookiecutter.
-- name: 📝  PyClass Code of Conduct
-  url: https://github.com/pyclass/coc/CODE_OF_CONDUCT.md
+- name: 📝  RealClasses Code of Conduct
+  url: https://github.com/realclasses/coc/CODE_OF_CONDUCT.md
   about: Expectations for how people will interact with each other on Cookiecutter's GitHub.

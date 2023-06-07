@@ -1,6 +1,6 @@
-# PyClass Roadmap
+# RealClasses Roadmap
 
-This document lists general directions that core team is interested to see developed in PyClass
+This document lists general directions that core team is interested to see developed in RealClasses
 
 ## Principal goals
 
@@ -9,29 +9,29 @@ This document lists general directions that core team is interested to see devel
 - <<add your item here>>
 ### Codebase maintenance
 
-<<DESCRIBE SOME SUGGESTIONS OR TASKS FOR THE CODEBASE MAINTENANCE?>> 
+<<DESCRIBE SOME SUGGESTIONS OR TASKS FOR THE CODEBASE MAINTENANCE?>>
 
 - <<add your item here>>
 
 ### Framework support
 
-<<Describe the frameworks supported by the project PyClass and adds relevant features>> 
+<<Describe the frameworks supported by the project RealClasses and adds relevant features>>
 
 - <<add your item here>>
 
 ### Metrics
 
-<<Add the types of metrics and what they are used for, if necessary>> 
+<<Add the types of metrics and what they are used for, if necessary>>
 
 - <<add your item here>>
 
 ### Resolving conflicts or tasks
 
-<<Indicates possible problems encountered in PyClass and how they can be solved by potential contributors>>
+<<Indicates possible problems encountered in RealClasses and how they can be solved by potential contributors>>
 
-    NOTE: 
+    NOTE:
 
-    It also describes possible functions or modules that can be added to the PyClass to improve its functioning. You can do this in sections. If necessary, you can place code for better understanding.
+    It also describes possible functions or modules that can be added to the RealClasses to improve its functioning. You can do this in sections. If necessary, you can place code for better understanding.
 
 ### Helper on data management
 
@@ -47,7 +47,7 @@ This document lists general directions that core team is interested to see devel
 
 ### Communications
 
-<<Indicate how you want the project to have more impact or visibility>> 
+<<Indicate how you want the project to have more impact or visibility>>
 
 - <<add your item here>>
 

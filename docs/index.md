@@ -1,11 +1,11 @@
 ![LOGO](/images/logo.png)
 
-# PyClass
+# RealClasses
 
 Python Package to help you to create classes with no problem with clas
 
 * License: BSD 3 Clause
-* Documentation: https://pyclass.github.io
+* Documentation: https://realclasses.github.io
 
 ## Features
 

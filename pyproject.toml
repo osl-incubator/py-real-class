@@ -1,5 +1,6 @@
 [tool.blue]
 line-length = 79  # this is the default
+
 [tool.isort]
 ensure_newline_before_comments = true
 line_length = 79
@@ -8,8 +9,8 @@ include_trailing_comma = true
 skip_glob = ["docs/*", "*.egg-info"]
 
 [tool.poetry]
-name = "pyclass"
-version = "0.0.1" # semantic-release
+name = "realclasses"
+version = "0.1.0"  # semantic-release
 description = "Python Package to help you to create classes with no problem with clas"
 authors = ["Ivan Ogasawara <ivan.ogasawara@gmail.com>"]
 license = "BSD 3 Clause"
@@ -42,12 +43,12 @@ exclude = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.8.1"
+urllib3 = "<2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7"
 blue = "^0.9.1"
-
 isort = "^5"
 pre-commit = "2"
 flake8 = "^4"
@@ -65,7 +66,10 @@ mkdocstrings = ">=0.17.0,<0.18.0"
 bandit = "^1.7.5"
 pydocstyle = "^6.3.0"
 vulture = "^2.7"
-mccabe = "^0.6.1" 
+mccabe = "^0.6.1"
+
+[tool.poetry.group.dev.dependencies]
+makim = "1.8.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
@@ -75,3 +79,6 @@ build-backend = "poetry.core.masonry.api"
 testpaths = [
     "tests",
 ]
+
+[tool.vulture]
+ignore_names = ["realclass"]

@@ -1,1 +1,1 @@
-"""Unit test package for pyclass."""
+"""Unit test package for realclasses."""

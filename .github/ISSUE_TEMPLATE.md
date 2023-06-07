@@ -1,4 +1,4 @@
-* PyClass version:
+* RealClasses version:
 * Python version:
 * Operating System:
 
